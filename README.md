@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **BackEnd Node.js Express.js Mongode**
 
-- 📫 How to reach me **rontysarkar583116@gmail.com**
+- 📫reach me **rontysarkar583116@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
