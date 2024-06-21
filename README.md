@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ronty-sarkar.vercel.app/](https://ronty-sarkar.vercel.app/)
 
-- 📫reach me **rontysarkar583116@gmail.com**
+- 📫reach me **rontysarkar07@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/19iODP-GCn3taGGaqUSusSDadaaVRSb-2/view?usp=sharing](https://drive.google.com/file/d/19iODP-GCn3taGGaqUSusSDadaaVRSb-2/view?usp=sharing)
 
@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/rontysarkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rontysarkar/" height="30" width="40" /></a>
 <a href="https://fb.com/ronty.sarkar.31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ronty.sarkar.31/" height="30" width="40" /></a>
+<a href="https://wa.me/+8801402796307" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:WhatsApp.svg#/media/File:WhatsApp.svg" alt="ronty.sarkar.31/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
