@@ -3,11 +3,9 @@
 
 - 🌱 I’m currently learning **BackEnd Node.js Express.js Mongode**
 
-- 👨‍💻 All of my projects are available at [https://ronty-sarkar.vercel.app/](https://ronty-sarkar.vercel.app/)
-
 - 📫reach me **rontysarkar07@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19iODP-GCn3taGGaqUSusSDadaaVRSb-2/view?usp=sharing](https://drive.google.com/file/d/19iODP-GCn3taGGaqUSusSDadaaVRSb-2/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
